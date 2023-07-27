@@ -1,0 +1,10 @@
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 1\bin\Debug\Problem 1.exe.config
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 1\bin\Debug\Problem 1.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 1\bin\Debug\Problem 1.pdb
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 1\obj\Debug\Problem 1.csproj.AssemblyReference.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 1\obj\Debug\Problem_1.Form1.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 1\obj\Debug\Problem_1.Properties.Resources.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 1\obj\Debug\Problem 1.csproj.GenerateResource.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 1\obj\Debug\Problem 1.csproj.CoreCompileInputs.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 1\obj\Debug\Problem 1.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 1\obj\Debug\Problem 1.pdb

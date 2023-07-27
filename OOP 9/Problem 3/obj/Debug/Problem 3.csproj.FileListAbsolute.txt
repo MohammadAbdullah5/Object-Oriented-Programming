@@ -1,0 +1,11 @@
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\bin\Debug\Problem 3.exe.config
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\bin\Debug\Problem 3.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\bin\Debug\Problem 3.pdb
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\obj\Debug\Problem_3.Form1.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\obj\Debug\Problem_3.Properties.Resources.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\obj\Debug\Problem 3.csproj.GenerateResource.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\obj\Debug\Problem 3.csproj.CoreCompileInputs.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\obj\Debug\Problem 3.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\obj\Debug\Problem 3.pdb
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\obj\Debug\Problem 3.csproj.AssemblyReference.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 9\Problem 3\obj\Debug\Problem_3.Form2.resources

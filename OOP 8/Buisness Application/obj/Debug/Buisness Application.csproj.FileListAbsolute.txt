@@ -1,0 +1,7 @@
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 8\Buisness Application\obj\Debug\Buisness Application.csproj.AssemblyReference.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 8\Buisness Application\obj\Debug\Buisness Application.csproj.CoreCompileInputs.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 8\Buisness Application\bin\Debug\Buisness Application.exe.config
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 8\Buisness Application\bin\Debug\Buisness Application.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 8\Buisness Application\bin\Debug\Buisness Application.pdb
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 8\Buisness Application\obj\Debug\Buisness Application.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 8\Buisness Application\obj\Debug\Buisness Application.pdb

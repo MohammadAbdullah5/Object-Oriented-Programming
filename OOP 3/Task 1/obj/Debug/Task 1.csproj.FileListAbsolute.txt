@@ -1,0 +1,7 @@
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 3\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 3\Task 1\bin\Debug\Task 1.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 3\Task 1\bin\Debug\Task 1.pdb
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 3\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 3\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 3\Task 1\obj\Debug\Task 1.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 3\Task 1\obj\Debug\Task 1.pdb
