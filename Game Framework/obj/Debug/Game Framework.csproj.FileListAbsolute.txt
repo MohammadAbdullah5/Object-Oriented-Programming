@@ -1,0 +1,16 @@
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\bin\Debug\Game Framework.exe.config
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\bin\Debug\Game Framework.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\bin\Debug\Game Framework.pdb
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game Framework.csproj.AssemblyReference.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game_Framework.Properties.Resources.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game Framework.csproj.GenerateResource.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game Framework.csproj.CoreCompileInputs.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game Framework.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game Framework.pdb
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\bin\Debug\EZInput.dll
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\bin\Debug\EZInput.xml
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game Framework.csproj.CopyComplete
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game_Framework.GameForm.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game_Framework.LoseForm.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game_Framework.VictoryForm.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 12\Game Framework\obj\Debug\Game_Framework.MainMenu.resources
